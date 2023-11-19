@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Menu items -->
+    <item
+        android:id="@+id/action_insert_contact"
+        android:icon="@mipmap/add"
+        android:title="Insert contact" />
+    <item
+        android:id="@+id/action_edit_contact"
+        android:icon="@drawable/add"
+        android:title="Select contact" />
+    <item
+        android:id="@+id/action_select_contact"
+        android:icon="@drawable/add"
+        android:title="Edit existing contact" />
+</menu>

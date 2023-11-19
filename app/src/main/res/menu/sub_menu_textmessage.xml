@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Menu items -->
+    <item
+        android:id="@+id/action_using_sms"
+        android:icon="@mipmap/add"
+        android:title="Using SMS" />
+    <item
+        android:id="@+id/action_using_email"
+        android:icon="@drawable/add"
+        android:title="Using Email / Social Apps" />
+</menu>
